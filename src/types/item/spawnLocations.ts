@@ -264,6 +264,7 @@ const hiddenLocations = showAll
       "nuclear power plant",
       "tutorial",
       "debug_item_group_test",
+      "gas station bunker",
     ]);
 const lootByOmAppearanceCache = new WeakMap<
   CddaData,
